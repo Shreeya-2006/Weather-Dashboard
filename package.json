@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vite build && gh-pages -d dist -b gh-pages"
+    "deploy": "vite build && gh-pages -d dist -b gh-pages --pages"
   },
   "repository": {
     "type": "git",
