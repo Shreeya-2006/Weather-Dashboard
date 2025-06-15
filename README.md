@@ -2,7 +2,8 @@
 
 A sleek, responsive weather dashboard web application built using **Vite**, **JavaScript**, and the **OpenWeatherMap API**. This app allows users to search for current weather conditions and view key metrics like humidity, wind speed, sunrise/sunset times, and more — all wrapped in a modern, clean interface.
 
-![screenshot](screenshot.png) <!-- Replace with actual image link if available -->
+![screenshot1](https://github.com/Shreeya-2006/Weather-Dashboard/blob/main/Weather-Dashboard_Dark_Mode.png) 
+![screenshot2](https://github.com/Shreeya-2006/Weather-Dashboard/blob/main/Weather-Dashboard_Light_Mode.png)
 
 ---
 
